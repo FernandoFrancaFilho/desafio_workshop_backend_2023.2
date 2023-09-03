@@ -1,5 +1,19 @@
 # desafio_workshop_backend_2023.2
 
+- Observação extremamente importante: para iniciar o todo o procedimento para ver se o desafio está correto, será preciso realizar esses 6 códigos em sequência:
+```ps1
+pip install psycopg2
+
+pip install postgres
+
+python -m pip install Pillow
+
+python manage.py makemigrations
+
+python manage.py migrate
+
+python manage.py runserver  
+```
 Antes de tudo só queria informar que estou tentando fazer esse envio para o git a mais de 1 hora, mas por algum motivo, o commit só estava funcionando normalmente se fosse para o master então acabei apenas conseguindo pelo pycharm, caso tenha algum erro ocasionado pelo pycharm, peço que rode a aplicação no Visual Studio Code
 
 Nesse desafio foi preciso realizar a criação de uma API pelo Django Rest Framework. Por meio desse READ.ME, irei explicar as etapas que foram feitas para conseguir Resolver esse desafio, com os seguintes Requisitos:
