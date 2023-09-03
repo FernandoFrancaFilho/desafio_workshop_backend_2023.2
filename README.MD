@@ -1,12 +1,9 @@
 # desafio_workshop_backend_2023.2
 
-- Observação extremamente importante: para iniciar o todo o procedimento para ver se o desafio está correto, será preciso realizar esses 6 códigos em sequência:
+- Observação extremamente importante: para iniciar o todo o procedimento para ver se o desafio está correto, será preciso realizar esses 4 códigos em sequência:
 ```ps1
-pip install psycopg2
 
-pip install postgres
-
-python -m pip install Pillow
+pip install -r requerements.txt
 
 python manage.py makemigrations
 
