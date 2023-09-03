@@ -43,6 +43,8 @@ pip install djangorestframework
 - Instalação do Banco de Dados PostGree Admin
 
  ```ps1
+python -m pip install Pillow
+
 pip install psycopg2
 
 pip install psycopg2-binary
