@@ -220,4 +220,4 @@ https://www.enterprisedb.com/downloads/postgres-postgresql-downloads#windows
 
 > Todos os conhecimentos colocados nessa documentação foram absorvidos através do Workshop realizado na Fábrica de Software 2023.2 Lab 8 Sala 2.
 
-> O nome do projeto vem do trocadilho Car em inglêz que significa carro e cadastro, fazendo a junção do mesmo e se tornando ```Cardastro```.
+> O nome do projeto vem do trocadilho Car em inglês que significa carro e cadastro, fazendo a junção do mesmo e se tornando ```CarDastro```.
